@@ -6,4 +6,138 @@ What is an agency problem?
 A conflict of interest between the agent and the principle.
 What law created the Securities Exchange Commission?
 The Securities Exchange Act of 1934.
+What is an official accounting statement called?
+Statement of Cash Flows
+What is the first step in determining cash flows of the firm?
+Cash Flow from Operations
+What does EBITDA stand for?
+Earnings Before Interest Expense, Taxes, Depreciation and Amortization
+What ratio takes into account all debts of maturities to all creditors?
+Total Debt Ratio
+The DuPont Identity tells us that ROE is affected by what three things?
+Operating Efficiency, Asset Use Efficiency and Financial Leverage
+What is another name for the retention ratio?
+Plowback Ratio
+What is the process of leaving the money in the financial market and lending it for another year called?
+Compounding
+What are the four classes of cash flow streams?
+Perpetuity, Growing Perpetuity, Annuity and Growing Annuity
+What two categories do partnerships fall into?
+General partnerships and limited partnerships.
+What is the goal of financial management?
+The goal is to maximize the current value per share of the existing stock.
+Was there ever a time when stocks had a tax advantage over bonds?
+Very likely, yes
+What are three factors that determine the target debt-equity ratio?
+Taxes, Types of assets and Uncertainty of operating income
+What is the relationship between a company’s profitability and its debt level?
+Firm with low anticipated profits will likely take on a low level of debt
+To what four claimants do the cash flows of the firm go to during bankruptcy proceedings?
+Stockholders, bondholders, the Government and lawyers
+What are two other names for the expected return on equity or stock?
+Cost of equity or required return on equity
+What are the names of the professors that the MM Proposition I is named after?
+Modigliani and Miller
+What is a bond that is issued in multiple countries but denominated in a single currency, usually the issuer’s home currency?
+Eurobond
+What bonds are issued in a single country and are usually denominated in that country’s currency?
+Foreign Bond
+What type of bond can be swapped for a fixed number of shares of stock any time before maturity?
+Convertible Bond
+Protective covenants can be classified into what two types?
+Negative covenants and positive covenants
+Which covenant limits or prohibits actions a company might take?
+Negative covenant
+Coupon payments are adjustable in what type of bond?
+Floating-rate bonds
+What is the difference between the call price and the stated value?
+Call premium
+During the period of prohibition, the bond is said to be what?
+Call protected
+What term is used frequently that means securities that are pledged as security for payment of debt?
+Collateral
+What indicates preference in position over other lenders?
+Seniority
+What is the written agreement between the corporation and its creditors?
+Indenture
+Dividends payable on preferred stock are either cumulative or noncumulative, but most are what?
+Cumulative
+Do holders of preferred stock have voting privileges?
+No
+What is the grant of authority to by a shareholder to someone else to vote their shares?
+Proxy
+With straight voting are directors elected one at a time?
+Yes
+What is the effect of cumulative voting?
+Allow minority participation
+When calculating debt ratios which market values do financial economists generally prefer?
+Market Values
+What is the decision often called when managers are contemplating the date to issue equity?
+Timing decision
+How do many commentators describe the rise and fall of the Internet stocks?
+A Bubble
+Conservatism is another word for what?
+Underreaction
+What are the two stronger types of efficiency?
+Semistrong Form Efficiency and Strong Form Efficiency
+What are the three conditions that lead to efficiency?
+Rationality, Independent deviations from rationality and arbitrage
+What are the three ways to create valuable financing opportunities?
+Fool investors, reduce costs or increase subsidies or create a new security
+The beta of a company is a function of a number of factors and the three most important are what?
+Cyclicality if revenues, operating leverage and financial leverage
+What are the two primary advantages of the CAPM?
+Adjusts for risk and is applicable to companies that pay no dividends or whose dividend growth is difficult to estimate
+What is the CAPM primarily used to determine?
+A firm’s cost of capital
+Firms with high fixed costs and low variable costs are generally said to have what?
+High operating leverage
+Do fixed costs change as quantity changes?
+No
+What three things are needed to estimate a firm's cost of equity?
+Risk-free rate, market risk premium and stock beta
+What is the discount rate often called?
+Required return
+What captures the influence of a systematic risk like inflation on a stock?
+Beta coefficient
+What formula implies that the expected return on a security is linearly related to its beta?
+CAPM
+What is CAPM?
+Capital Asset Pricing Model
+What does the beta measure?
+The responsiveness of a security to movements in the market portfolio
+What is a risk that affects a large number of assets, each to a greater or lesser degree?
+Systematic risk
+What is a risk that specifically affects a single asset or a small group of assets?
+Unsystematic risk
+How do you calculate the Sharpe ratio?
+Risk premium of the asset divided by the standard deviation
+What is the square root of the variance?
+Standard deviation
+What is another name for average?
+Mean
+Long-term US Government bonds are based on maturities of how many years?
+20
+What is the change in the price of the stock divided by the initial price?
+Capital Gain
+A firm's price-earnings ratio is a function of what three factors?
+The per-share amount of the firm's valuable investment opportunities, the risk o the stock and the type of accounting method used by the firm
+What are the two biggest stock markets in the US?
+New York Stock Exchange and the NASDAQ
+Where is the NASDAQ located?
+No physical location; strictly a computer network
+What are the three different types of license holders?
+Designated Market Makers, Floor brokers and Supplemental Liquidity Providers
+What is the secondary market of the stock market?
+Existing shares are traded among investors
+A stock's PE ratio is likely a function of what three factors?
+Investment opportunities, Risk and Accounting practices
+What is the rate at which the value of the investment grows?
+Capital Gains Yield
+What is the formula for a firm's growth rate?
+Retention ratio  x Return on retained earnings (ROE)
+The ratio of dividends to earnings is often called what?
+Payout ratio
+If a company's profit margin increases, what happens to the Sustainable Growth Rate?
+Increases
 
